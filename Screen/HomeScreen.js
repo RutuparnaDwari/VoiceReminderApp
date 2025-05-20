@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet, Pressable } from 'react-native';
+import { View, Text, TextInput,StyleSheet, Pressable } from 'react-native';
 import Tts from 'react-native-tts';
 
 const HomeScreen = ({ navigation }) => {
